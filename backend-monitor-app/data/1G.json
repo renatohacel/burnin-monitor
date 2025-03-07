@@ -1,0 +1,162 @@
+[
+    {
+        "tester": "1G-01",
+        "status": "run"
+    },
+    {
+        "tester": "1G-02",
+        "status": "run"
+    },
+    {
+        "tester": "1G-03",
+        "status": "run"
+    },
+    {
+        "tester": "1G-04",
+        "status": "run"
+    },
+    {
+        "tester": "1G-05",
+        "status": "run"
+    },
+    {
+        "tester": "1G-06",
+        "status": "run"
+    },
+    {
+        "tester": "1G-07",
+        "status": "run"
+    },
+    {
+        "tester": "1G-08",
+        "status": "run"
+    },
+    {
+        "tester": "1G-09",
+        "status": "run"
+    },
+    {
+        "tester": "1G-10",
+        "status": "poweroff"
+    },
+    {
+        "tester": "1G-11",
+        "status": "run"
+    },
+    {
+        "tester": "1G-12",
+        "status": "run"
+    },
+    {
+        "tester": "1G-13",
+        "status": "run"
+    },
+    {
+        "tester": "1G-14",
+        "status": "run"
+    },
+    {
+        "tester": "1G-15",
+        "status": "rsp"
+    },
+    {
+        "tester": "1G-16",
+        "status": "poweroff"
+    },
+    {
+        "tester": "1G-17",
+        "status": "rsp"
+    },
+    {
+        "tester": "1G-18",
+        "status": "poweroff"
+    },
+    {
+        "tester": "1G-19",
+        "status": "run"
+    },
+    {
+        "tester": "1G-20",
+        "status": "run"
+    },
+    {
+        "tester": "1G-21",
+        "status": "alert"
+    },
+    {
+        "tester": "1G-22",
+        "status": "poweroff"
+    },
+    {
+        "tester": "1G-23",
+        "status": "run"
+    },
+    {
+        "tester": "1G-24",
+        "status": "run"
+    },
+    {
+        "tester": "1G-25",
+        "status": "run"
+    },
+    {
+        "tester": "1G-26",
+        "status": "poweroff"
+    },
+    {
+        "tester": "1G-27",
+        "status": "run"
+    },
+    {
+        "tester": "1G-28",
+        "status": "run"
+    },
+    {
+        "tester": "1G-29",
+        "status": "alert"
+    },
+    {
+        "tester": "1G-30",
+        "status": "alert"
+    },
+    {
+        "tester": "1G-31",
+        "status": "alert"
+    },
+    {
+        "tester": "1G-32",
+        "status": "run"
+    },
+    {
+        "tester": "1G-33",
+        "status": "alert"
+    },
+    {
+        "tester": "1G-34",
+        "status": "run"
+    },
+    {
+        "tester": "1G-35",
+        "status": "run"
+    },
+    {
+        "tester": "1G-36",
+        "status": "diferent"
+    },
+    {
+        "tester": "1G-37",
+        "status": "run"
+    },
+    {
+        "tester": "1G-38",
+        "status": "run"
+    },
+    {
+        "tester": "1G-39",
+        "status": "run"
+    },
+    {
+        "tester": "1G-40",
+        "status": "alert"
+    }
+]

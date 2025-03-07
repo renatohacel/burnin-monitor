@@ -1,0 +1,130 @@
+[
+    {
+        "tester": "1A-01",
+        "status": "poweroff"
+    },
+    {
+        "tester": "1A-02",
+        "status": "poweroff"
+    },
+    {
+        "tester": "1A-03",
+        "status": "run"
+    },
+    {
+        "tester": "1A-04",
+        "status": "run"
+    },
+    {
+        "tester": "1A-05",
+        "status": "run"
+    },
+    {
+        "tester": "1A-06",
+        "status": "run"
+    },
+    {
+        "tester": "1A-07",
+        "status": "run"
+    },
+    {
+        "tester": "1A-08",
+        "status": "run"
+    },
+    {
+        "tester": "1A-09",
+        "status": "run"
+    },
+    {
+        "tester": "1A-10",
+        "status": "poweroff"
+    },
+    {
+        "tester": "1A-11",
+        "status": "run"
+    },
+    {
+        "tester": "1A-12",
+        "status": "run"
+    },
+    {
+        "tester": "1A-13",
+        "status": "run"
+    },
+    {
+        "tester": "1A-14",
+        "status": "run"
+    },
+    {
+        "tester": "1A-15",
+        "status": "rsp"
+    },
+    {
+        "tester": "1A-16",
+        "status": "poweroff"
+    },
+    {
+        "tester": "1A-17",
+        "status": "rsp"
+    },
+    {
+        "tester": "1A-18",
+        "status": "poweroff"
+    },
+    {
+        "tester": "1A-19",
+        "status": "run"
+    },
+    {
+        "tester": "1A-20",
+        "status": "run"
+    },
+    {
+        "tester": "1A-21",
+        "status": "alert"
+    },
+    {
+        "tester": "1A-22",
+        "status": "poweroff"
+    },
+    {
+        "tester": "1A-23",
+        "status": "rsp"
+    },
+    {
+        "tester": "1A-24",
+        "status": "run"
+    },
+    {
+        "tester": "1A-25",
+        "status": "run"
+    },
+    {
+        "tester": "1A-26",
+        "status": "poweroff"
+    },
+    {
+        "tester": "1A-27",
+        "status": "run"
+    },
+    {
+        "tester": "1A-28",
+        "status": "run"
+    },
+    {
+        "tester": "1A-29",
+        "status": "alert"
+    },
+    {
+        "tester": "1A-30",
+        "status": "alert"
+    },
+    {
+        "tester": "1A-31",
+        "status": "alert"
+    },
+    {
+        "tester": "1A-32",
+        "status": "alert"
+    }
+]
